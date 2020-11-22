@@ -73,6 +73,7 @@
 .app-container[data-blur="1"] + .social-container .social-block {
 	flex-direction: row;
 	margin        : 0;
+	transition    : none !important;
 }
 .app-container[data-blur="1"] + .social-container {
 	height         : fit-content;
@@ -81,10 +82,9 @@
 	bottom         : 15vh;
 }
 .app-container[data-blur="1"] + .social-container img {
-	opacity: 0.8;
-	height: 3.5vh;
-	width : 3.5vh;
-	margin: 3vh;
+	animation: social-in 0.5s ease;
+	animation-fill-mode: both;
+	transition: none !important;
 }
 .app-container[data-blur="1"] ~ .info-container .info-arrow {
 	opacity  : 1;
@@ -154,7 +154,7 @@
 }
 .social-container img {
 	margin    : 1vh;
-	width     : 100%;
+	width     : 2.5vh;
 	height    : 2.5vh;
 	opacity   : 0.35;
 	transition: 0.2s;
@@ -226,4 +226,17 @@ ul.info-list li {
 	font-size    : 2.4vh;
 	margin-bottom: 1vh;
 	position     : relative;
+}
+@keyframes social-in {
+	0% {
+		opacity: 0;
+		height : 3.5vh;
+		width  : 3.5vh;
+	}
+	100% {
+		opacity: 0.8;
+		height : 3.5vh;
+		width  : 3.5vh;
+		margin : 3vh;
+	}
 }
