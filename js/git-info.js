@@ -29,10 +29,7 @@ function onLoad(info)
 		if (!!info.link)
 			redirect = info.link;
 
-		window.location.href = redirect;
-		setTimeout(() => window.location.href = '/', 5000);
-
-		return;
+		return window.location.href = redirect;
 	}
 
 
