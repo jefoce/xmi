@@ -1,5 +1,5 @@
 const gitLink  = 'https://api.github.com/repos/jefoce/xmi/releases/latest';
-const isPath = (pathName) => window.location.pathname.includes(pathName);
+const isProperty = (pathName) => window.location.search.includes(pathName);
 
 const xhr = new XMLHttpRequest();
 
@@ -22,16 +22,11 @@ xhr.send();
  */
 function onLoad(info)
 {
-	if (isPath('download')) {
+	if (isProperty('download') && !!info.link) {
 		
-		let redirect = '404';
-
-		if (!!info.link)
-			redirect = info.link;
-
-		return window.location.href = redirect;
+		window.location.href = info.link;
+		window.history.replaceState(null, null, window.location.pathname);
 	}
-
 
 	// Index Page
 	document.body.querySelector('#download').href = info.link;
