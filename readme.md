@@ -1,5 +1,6 @@
 # Watch support
 * Mi Band 4
+* Mi Band 5
 # Extentions (Build / Open)
 ## Projects limit - 10
 * Json (folder must have 0000.png - Background with mi band screen resolution)
@@ -28,8 +29,8 @@
     * sx +-20
 * Render limits
     * Activity - 99999
-    * Time is real
-    * Date is real
+    * Real time
+    * Real date
     * Battery - 100
 # Support
 ## Time
