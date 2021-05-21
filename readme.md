@@ -51,5 +51,8 @@
 * Bluetooth
 * Lock
 * Battery
+## Other
+* Animation
+* Background
 #  Languages
 ![image](https://user-images.githubusercontent.com/33602561/100154551-6fcfab00-2eae-11eb-8e07-e6c030984e67.png)
