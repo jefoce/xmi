@@ -1,0 +1,1 @@
+export { GlobalThemeProvider } from './GlobalThemeProvider';
