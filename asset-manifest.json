@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/xmi/static/css/main.ce931dac.chunk.css",
+    "main.js": "/xmi/static/js/main.3930e0f4.chunk.js",
+    "main.js.map": "/xmi/static/js/main.3930e0f4.chunk.js.map",
+    "runtime-main.js": "/xmi/static/js/runtime-main.4f4e59b0.js",
+    "runtime-main.js.map": "/xmi/static/js/runtime-main.4f4e59b0.js.map",
+    "static/js/2.1aa55686.chunk.js": "/xmi/static/js/2.1aa55686.chunk.js",
+    "static/js/2.1aa55686.chunk.js.map": "/xmi/static/js/2.1aa55686.chunk.js.map",
+    "index.html": "/xmi/index.html",
+    "static/css/main.ce931dac.chunk.css.map": "/xmi/static/css/main.ce931dac.chunk.css.map",
+    "static/js/2.1aa55686.chunk.js.LICENSE.txt": "/xmi/static/js/2.1aa55686.chunk.js.LICENSE.txt",
+    "static/media/imports.css": "/xmi/static/media/AvenirNextCyr-Regular.1b8ec2e9.ttf",
+    "static/media/align.b530842d.mp4": "/xmi/static/media/align.b530842d.mp4",
+    "static/media/animation.28dde71e.mp4": "/xmi/static/media/animation.28dde71e.mp4",
+    "static/media/app.0ed042bb.png": "/xmi/static/media/app.0ed042bb.png",
+    "static/media/common.7da2db41.mp4": "/xmi/static/media/common.7da2db41.mp4",
+    "static/media/convert.bde6c903.mp4": "/xmi/static/media/convert.bde6c903.mp4",
+    "static/media/copy.27dba70f.mp4": "/xmi/static/media/copy.27dba70f.mp4",
+    "static/media/create.5e769016.mp4": "/xmi/static/media/create.5e769016.mp4",
+    "static/media/delete.3b3ebcb6.mp4": "/xmi/static/media/delete.3b3ebcb6.mp4",
+    "static/media/dnd.06377998.mp4": "/xmi/static/media/dnd.06377998.mp4",
+    "static/media/import.631d9114.mp4": "/xmi/static/media/import.631d9114.mp4",
+    "static/media/moving.a394867c.mp4": "/xmi/static/media/moving.a394867c.mp4",
+    "static/media/render.25731ed1.mp4": "/xmi/static/media/render.25731ed1.mp4",
+    "static/media/size.7e424841.mp4": "/xmi/static/media/size.7e424841.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f4e59b0.js",
+    "static/js/2.1aa55686.chunk.js",
+    "static/css/main.ce931dac.chunk.css",
+    "static/js/main.3930e0f4.chunk.js"
+  ]
+}
