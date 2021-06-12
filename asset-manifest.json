@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/xmi/static/css/main.ce931dac.chunk.css",
-    "main.js": "/xmi/static/js/main.3930e0f4.chunk.js",
-    "main.js.map": "/xmi/static/js/main.3930e0f4.chunk.js.map",
+    "main.js": "/xmi/static/js/main.e31b941a.chunk.js",
+    "main.js.map": "/xmi/static/js/main.e31b941a.chunk.js.map",
     "runtime-main.js": "/xmi/static/js/runtime-main.4f4e59b0.js",
     "runtime-main.js.map": "/xmi/static/js/runtime-main.4f4e59b0.js.map",
     "static/js/2.1aa55686.chunk.js": "/xmi/static/js/2.1aa55686.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.4f4e59b0.js",
     "static/js/2.1aa55686.chunk.js",
     "static/css/main.ce931dac.chunk.css",
-    "static/js/main.3930e0f4.chunk.js"
+    "static/js/main.e31b941a.chunk.js"
   ]
 }
