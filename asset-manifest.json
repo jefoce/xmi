@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/xmi/static/css/main.ce931dac.chunk.css",
-    "main.js": "/xmi/static/js/main.e31b941a.chunk.js",
-    "main.js.map": "/xmi/static/js/main.e31b941a.chunk.js.map",
+    "main.css": "/xmi/static/css/main.85a7beaa.chunk.css",
+    "main.js": "/xmi/static/js/main.2db6721a.chunk.js",
+    "main.js.map": "/xmi/static/js/main.2db6721a.chunk.js.map",
     "runtime-main.js": "/xmi/static/js/runtime-main.4f4e59b0.js",
     "runtime-main.js.map": "/xmi/static/js/runtime-main.4f4e59b0.js.map",
     "static/js/2.1aa55686.chunk.js": "/xmi/static/js/2.1aa55686.chunk.js",
     "static/js/2.1aa55686.chunk.js.map": "/xmi/static/js/2.1aa55686.chunk.js.map",
     "index.html": "/xmi/index.html",
-    "static/css/main.ce931dac.chunk.css.map": "/xmi/static/css/main.ce931dac.chunk.css.map",
+    "static/css/main.85a7beaa.chunk.css.map": "/xmi/static/css/main.85a7beaa.chunk.css.map",
     "static/js/2.1aa55686.chunk.js.LICENSE.txt": "/xmi/static/js/2.1aa55686.chunk.js.LICENSE.txt",
     "static/media/imports.css": "/xmi/static/media/AvenirNextCyr-Regular.1b8ec2e9.ttf",
     "static/media/align.b530842d.mp4": "/xmi/static/media/align.b530842d.mp4",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.4f4e59b0.js",
     "static/js/2.1aa55686.chunk.js",
-    "static/css/main.ce931dac.chunk.css",
-    "static/js/main.e31b941a.chunk.js"
+    "static/css/main.85a7beaa.chunk.css",
+    "static/js/main.2db6721a.chunk.js"
   ]
 }
