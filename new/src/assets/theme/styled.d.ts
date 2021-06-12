@@ -68,8 +68,9 @@ declare module 'styled-components' {
 }
 
 interface FontVariant {
+  size_14: string;
   size_18: string;
-  size_24: string;
+  size_26: string;
   size_30: string;
   size_36: string;
   size_42: string;

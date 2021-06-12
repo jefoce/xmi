@@ -16,7 +16,7 @@
 .neon-horizontal {
     bottom    : calc(100vh / 2);
 	width     : 100vh;
-    transform : rotate(-90deg);
+    transform : rotate(-90deg);	
 }
 .neon-left {
     left      : calc(-100vh / 2 - 1.31vh);

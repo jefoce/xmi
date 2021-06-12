@@ -12,8 +12,9 @@ const createFontProps = (weight: number) => (size: number) => `
 type FontVariantBuilder = (size: number) => string;
 
 const buildFontVariant = (build: FontVariantBuilder): FontVariant => ({
+  size_14: build(14),
   size_18: build(18),
-  size_24: build(24),
+  size_26: build(26),
   size_30: build(30),
   size_36: build(36),
   size_42: build(42),
