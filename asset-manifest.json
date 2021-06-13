@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/xmi/static/css/main.63a595c6.chunk.css",
-    "main.js": "/xmi/static/js/main.d71c0e20.chunk.js",
-    "main.js.map": "/xmi/static/js/main.d71c0e20.chunk.js.map",
+    "main.js": "/xmi/static/js/main.c5a29b44.chunk.js",
+    "main.js.map": "/xmi/static/js/main.c5a29b44.chunk.js.map",
     "runtime-main.js": "/xmi/static/js/runtime-main.4f4e59b0.js",
     "runtime-main.js.map": "/xmi/static/js/runtime-main.4f4e59b0.js.map",
     "static/js/2.3757832f.chunk.js": "/xmi/static/js/2.3757832f.chunk.js",
@@ -11,7 +11,7 @@
     "static/css/main.63a595c6.chunk.css.map": "/xmi/static/css/main.63a595c6.chunk.css.map",
     "static/js/2.3757832f.chunk.js.LICENSE.txt": "/xmi/static/js/2.3757832f.chunk.js.LICENSE.txt",
     "static/media/imports.css": "/xmi/static/media/AvenirNextCyr-Regular.1b8ec2e9.ttf",
-    "static/media/align.f2100cad.gif": "/xmi/static/media/align.f2100cad.gif",
+    "static/media/align.35cf0361.gif": "/xmi/static/media/align.35cf0361.gif",
     "static/media/animation.dbc62b65.gif": "/xmi/static/media/animation.dbc62b65.gif",
     "static/media/app.0ed042bb.png": "/xmi/static/media/app.0ed042bb.png",
     "static/media/common.a48d3c22.gif": "/xmi/static/media/common.a48d3c22.gif",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.4f4e59b0.js",
     "static/js/2.3757832f.chunk.js",
     "static/css/main.63a595c6.chunk.css",
-    "static/js/main.d71c0e20.chunk.js"
+    "static/js/main.c5a29b44.chunk.js"
   ]
 }
