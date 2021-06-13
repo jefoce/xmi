@@ -15,7 +15,7 @@ export const InfoView: React.VFC<Props> = () => {
         <DownloadSection />
       </styled.DownloadWrapper>
       {documentation.map((props) => (
-        <Documentation key={props.src} {...props} />
+        <Documentation key={props.src.main} {...props} />
       ))}
       <styled.AlignArrow>
         <Arrow />

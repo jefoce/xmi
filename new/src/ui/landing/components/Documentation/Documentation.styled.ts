@@ -61,10 +61,24 @@ export const Paragraph = styled.p`
   }
 `;
 
+export const VideoContainer = styled.div`
+  position: relative;
+  
+  img {
+    display      : flex;
+    max-height   : 75vh;
+    max-width    : 100%;
+    border-radius: 5px;
+    object-fit   : contain;
+  }
+`;
+
 export const Video = styled.img`
-  display      : flex;
-  max-height   : 75vh;
-  max-width    : 100%;
-  border-radius: 5px;
-  object-fit   : contain;
+  position: absolute;
+  top     : 0;
+  left    : 0;
+
+  &[data-play=false] {
+    visibility: hidden;
+  }
 `;
