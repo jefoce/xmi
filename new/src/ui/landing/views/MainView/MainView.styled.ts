@@ -1,13 +1,14 @@
 import styled from 'styled-components';
 
 export const BodyWrapper = styled.div`
-  display : flex;
-  position: sticky;
-  position: -webkit-sticky;
-  top     : 0;
-  left    : 0;
-  z-index : 1;
-  height  : calc(var(--vh, 1vh) * 100);
+  display        : flex;
+  position       : sticky;
+  justify-content: center;
+  width          : 100%;
+  top            : 0;
+  left           : 0;
+  z-index        : 1;
+  height         : calc(var(--vh, 1vh) * 100);
   /* overflow-x: hidden; */
   overflow-y: hidden;
   background: radial-gradient(circle 50vh at 50% 20%, #383b46 0%, #1a1c20 100%);

@@ -34,7 +34,7 @@ export const documentation: DocumentationProps[] = [
       preview: ConvertVideoPreview
     },
     title: "Easy series converting",
-    paragraphs: ["Mi Band 4", "Mi Band 5"],
+    paragraphs: ["Mi Band 4", "Mi Band 5", "Mi Band 6"],
   },
   {
     src: {
